@@ -1,11 +1,11 @@
 {
-  "name": "calculator-assignment",
+  "name": "qtr1-1st-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "calculator-assignment": "main.js"
+    "qtr1-1st-assignment": "main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +17,7 @@
     "chalk": "^5.2.0",
     "chalk-animation": "^2.0.3",
     "figlet": "^1.5.2",
-    "inquirer": "^9.1.5",
-    "q1-2nd-assignment": "^1.0.0"
+    "inquirer": "^9.1.5"
   },
   "devDependencies": {
     "@types/chalk-animation": "^1.6.1",

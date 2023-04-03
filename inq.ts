@@ -18,7 +18,7 @@ let choic=async()=>
         name:"operation",
         type:"rawlist",
         message:"select the desired operation: ",
-        choices:["add","subtraction","multiply","divide","mod","exit"]
+        choices:["add","subtraction","multiply","divide","mod",]
     }])
     return opr.operation;
 }
