@@ -1,11 +1,11 @@
 {
-  "name": "qtr1-1st-assignment",
+  "name": "qtr1-calculator-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "qtr1-1st-assignment": "main.js"
+    "qtr1-calculator-assignment": "main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
